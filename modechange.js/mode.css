@@ -1,0 +1,17 @@
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color:black;
+}
+#btnn{
+    display: flex;
+    display: flex;
+    position: absolute;
+    margin-left: 50%;
+    border: solid 2px black;
+    border-radius: 10px;
+    cursor: pointer;
+}
